@@ -1,0 +1,2 @@
+Secure Product Catalog API is a RESTful API built using Node.js, Express.js, and TypeScript for managing product information through CRUD operations.
+It includes input validation, sanitization, centralized error handling, rate limiting, Helmet security, and API versioning.
